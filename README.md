@@ -11,8 +11,7 @@
 
 ## Types of Internet People
  | English | Chinese | Pinyin
- | :---  | :---: | :---  | 
-
+ |---|---|---| 
  | blogger  |  博主  |  bó zhŭ | 
  | male tech geek who stays home all the time  |  宅男  |  zhái nán | 
  | female tech geek who stays home all the time  |  宅女  |  zhái nǚ | 
@@ -26,3 +25,4 @@
  | programmer  |  程序设计师  |  chéng xù shè jì shī | 
  | computer programming |  电脑编程  |  diàn năo biān chéng | 
  | developer  |  开发人员  |  kāi fā rén yuán | 
+
