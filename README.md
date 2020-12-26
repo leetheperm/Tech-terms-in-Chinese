@@ -1,14 +1,5 @@
 # Tech terms in Chinese 
 
-## Basic terms
-
-## Web
-
-## Software development
-
-## Agile
-
-
 ## Types of Internet People
  | English | Chinese | Pinyin
  |---|---|---| 
