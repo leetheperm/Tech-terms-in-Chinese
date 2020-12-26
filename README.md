@@ -1,4 +1,4 @@
-# Tech terms in Chinese 
+# Basic tech terms in Chinese 
 
 ## Types of Internet People
  | English | Chinese | Pinyin
